@@ -4,6 +4,8 @@
 Blur effect view like ios.
 
 
+### Screenshots
+
 ![Alt text](https://i.imgur.com/7Q0lPmS.png "BlurEffectView")
 
 
@@ -20,7 +22,7 @@ Put the BlurEffectView in the layout xml
 
 ### Add to project
 
-Add dependencies in your app level build.gradle file
+Add dependencies in your /app/build.gradle file
 
 ```
 dependencies {
@@ -36,10 +38,30 @@ dependencies {
 	}
 ```
 
+If it doesn't work, please send me a email, sutanurath@gmail.com
+
+
 Add proguard rules if require.
 
 ```
 -keep class android.support.v8.renderscript.** { *; }
 ```
 
+### License
+
+```
+Copyright (C) 2014 sutanurath
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
 
