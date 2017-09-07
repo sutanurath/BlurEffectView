@@ -25,9 +25,8 @@ Put the BlurEffectView in the layout xml
 Add dependencies in your /app/build.gradle file
 
 ```
-dependencies {
-	    compile 'com.sutanu.blureffectview:blureffectview:1.0.1'
-	}
+       compile 'com.sutanu.blureffectview:blureffectview:1.0.1'
+	
 	android {
 		buildToolsVersion '24.0.2'                
 		defaultConfig {
