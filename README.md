@@ -50,7 +50,7 @@ Add proguard rules if require.
 ### License
 
 ```
-Copyright (C) 2014 sutanurath
+Copyright (C) 2017 sutanurath
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
