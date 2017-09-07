@@ -27,8 +27,7 @@ Add dependencies in your /app/build.gradle file
 ```
        compile 'com.sutanu.blureffectview:blureffectview:1.0.1'
 	
-	android {
-		buildToolsVersion '24.0.2'                
+	android {               
 		defaultConfig {
 			minSdkVersion 15
 			renderscriptTargetApi 19
