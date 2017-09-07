@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BlurEffectView">
+        <attr name="blurEffectViewRadius" format="dimension"/>
+        <attr name="blurEffectViewSampleFactor" format="float"/>
+        <attr name="blurEffectViewOverlayColor" format="color"/>
+    </declare-styleable>
+</resources>
